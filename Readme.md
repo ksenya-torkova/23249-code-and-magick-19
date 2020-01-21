@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ксения Торкова](https://up.htmlacademy.ru/javascript/19/user/23249).
-* Наставник: `Неизвестно`.
+* Наставник: `Кексобот`.
 
 ---
 
